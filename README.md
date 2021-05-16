@@ -1,7 +1,6 @@
 # AKS Cluster deployment using Terraform
 
-## Project Summary
-Create AKS Cluster with multiple environments and deploys sample nginx App
+Creates AKS Cluster with multiple environments and deploys a sample nginx App
 
 
 ## Prerequisites
